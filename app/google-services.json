@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "635273441387",
+    "project_id": "listacompras-9e8e9",
+    "storage_bucket": "listacompras-9e8e9.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:635273441387:android:117da90688ca5cee1e012e",
+        "android_client_info": {
+          "package_name": "br.senac.listacompras"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "635273441387-9jmd1b2l9dq3q16gvcg9bd26smjkosci.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBk6WohgRY_ZlgZGoEBhkhn3OUQoI6tH_8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "635273441387-9jmd1b2l9dq3q16gvcg9bd26smjkosci.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
